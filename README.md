@@ -16,8 +16,8 @@ This GitHub repository is for the users of the app Interactive SwiftUI.
 
 Whenever the users wish to see the source code of any view displayed in the app, they will be redirected to the corresponding code on this repo.
 
-# Link
-Please download this app through this link:    https://apps.apple.com/app/id1511793071
+# Installation
+Please install this app from App Store through this link:    https://apps.apple.com/app/id1511793071
 
 # Contact
 Please reach out to me through this email address:    interactiveswiftui@gmail.com

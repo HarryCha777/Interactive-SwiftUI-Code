@@ -17,7 +17,7 @@ struct ComplexAlert: View {
     }
     
     func linkToReview() { // function that links to app review
-        guard let productURL = URL(string: "https://apps.apple.com/app/id1505570242") else { return } // sets url
+        guard let productURL = URL(string: "https://apps.apple.com/app/id1511793071") else { return } // sets url
         
         var components = URLComponents(url: productURL, resolvingAgainstBaseURL: false) // makes variable components as URLComponents of productURL
         components?.queryItems = [

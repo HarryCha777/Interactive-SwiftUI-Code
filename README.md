@@ -2,6 +2,8 @@
   <img src="https://user-images.githubusercontent.com/36347727/81235409-ae078a80-8faf-11ea-9b7a-df7c21618cf7.jpg" height="552" width="310.5">
 </a>
 
+<br/>
+
 <a href="https://apps.apple.com/app/id1511793071">
   <img src="https://user-images.githubusercontent.com/36347727/81239979-0c863600-8fbb-11ea-94cb-2a0d35e3bfe3.png" height="94.75" width="320">
 </a>

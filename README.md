@@ -1,5 +1,5 @@
 <a href="https://apps.apple.com/app/id1511793071">
-  <img src="https://user-images.githubusercontent.com/36347727/81235409-ae078a80-8faf-11ea-9b7a-df7c21618cf7.jpg" height="552" width="310.5">
+  <img src="https://user-images.githubusercontent.com/36347727/84867227-ab2c9a80-b02f-11ea-8e01-8f36af9bca3c.jpg" height="552" width="310.5">
 </a>
 
 <br/>

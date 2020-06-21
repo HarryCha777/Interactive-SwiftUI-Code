@@ -40,7 +40,7 @@ struct SideMenuView: View { // makes SideMenu struct
                     Text("Item 2") // displays text
                     Text("Item 3") // displays text
                 }
-                    .frame(width: screenWidth * 0.7) // positions side menu appropriately
+                    .frame(width: screenWidth * 0.7) // positions side menu based on width of screen
                     .offset(x: CGFloat(self.isMenuOpen ? screenWidth * 0.3: screenWidth)) // moves side menu if it is opened
                     .animation(.default) // animates sliding in side menu
             }
